@@ -1,10 +1,3 @@
-/* Name: Andrew Manga
-** Date: March 24, 2023
-** Class: ICS4U1 - J. Radulovic
-** Assignment: Comparing Sorting Algorithms
-** Purpose: Visualize the inner mechanisms of three separate sorting algorithms using JavaFX
-*/
-
 package assign4;
 
 import java.util.*;
